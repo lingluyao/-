@@ -1,5 +1,5 @@
 
-#图形界面
+# #图形界面
 from tkinter import *
 
 #from PIL import ImageTk,Image
